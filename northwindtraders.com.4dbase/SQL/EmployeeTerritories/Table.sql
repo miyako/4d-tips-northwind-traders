@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS EmployeeTerritories
+(
+	[EmployeeID] INT32 NOT NULL AUTO_INCREMENT,
+	[TerritoryID] VARCHAR(20) NOT NULL,
+	PRIMARY KEY (EmployeeID, TerritoryID)
+);

@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS Categories
+(
+  CategoryID INT32 NOT NULL UNIQUE AUTO_INCREMENT,
+  CategoryName VARCHAR(15) NOT NULL, 
+  Description TEXT,
+  [Picture] PICTURE,
+  PRIMARY KEY (CategoryID)
+);

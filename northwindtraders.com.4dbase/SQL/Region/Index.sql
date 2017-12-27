@@ -1,0 +1,1 @@
+	CREATE INDEX [Region.PK_Region] ON Region(RegionID);

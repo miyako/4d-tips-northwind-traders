@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS [Order Details]
+(
+	[OrderID] INT32 NOT NULL AUTO_INCREMENT,
+	[ProductID] INT32 NOT NULL,
+	[UnitPrice] REAL NOT NULL,
+	[Quantity] SMALLINT NOT NULL,
+	[Discount] REAL NOT NULL,
+  PRIMARY KEY (OrderID,ProductID)
+);  

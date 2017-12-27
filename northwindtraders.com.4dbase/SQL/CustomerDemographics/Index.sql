@@ -1,0 +1,1 @@
+	CREATE INDEX [CustomerDemographics.PK_CustomerDemographics] ON CustomerDemographics(CustomerTypeID);

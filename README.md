@@ -1,4 +1,4 @@
 # 4d-tips-northwind-traders
 4D clone of the [Microsoft sample database](https://northwinddatabase.codeplex.com)
 
-<img width="857" alt="2017-12-27 16 37 23" src="https://user-images.githubusercontent.com/1725068/34374410-5e0ce1ce-eb24-11e7-8ab2-add82c2b5fc8.png">
+<img width="940" alt="2017-12-27 22 30 32" src="https://user-images.githubusercontent.com/1725068/34382970-9f75a5fc-eb55-11e7-87c6-e895b1b6fffe.png">
